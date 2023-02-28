@@ -1,0 +1,32 @@
+h1{
+    color: white;
+}
+
+#para1{
+    color: aqua;
+    background-color: blueviolet;
+    background-image: (url/images/WEB DEVELOPMENT/images/logo/png)
+
+
+    background-position - right;
+    /*background-attachment:scroll*/
+    border-radius: 20pk;
+    border-top-style: dotted;
+    border-bottom-style: double;
+    border-left-style: solid;
+    border-right-style: dashed;
+}
+
+
+#para2{
+    border-style:solid;
+    border-color: aqua;
+    color: green;
+}
+
+
+.one{
+    font-style:italic;
+    font-size:10px;
+    color:blanchedalmond
+}
